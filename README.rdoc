@@ -1,5 +1,5 @@
 == README
 
-This is a website that can be used as a bithing services template.
+This is a website that can be used as a birthing services template.
 
 *Ruby 2.2.4
